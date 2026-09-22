@@ -1,0 +1,19 @@
+table{
+	border-style:dashed solid dotted double;
+	border-color:red green blue pink;
+	border-width:6px;
+	border-bottom-width:thin;
+	border-top-width:medium;
+	border-left-width:thick;
+	border-right-width:6px;
+	border-top:2px solid purple;
+	border: 4px solid pink;
+	border-collapse:collapse;
+	
+}
+
+img{
+	border:3px solid green;
+	border-radius:60%;/* round shape*/
+	border-radius:30% 0% 40% 0%;
+}
